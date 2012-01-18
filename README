@@ -1,0 +1,6 @@
+DISC COLLECTOR READ ME
+-------------------------------------
+The purpose of this project is to design an application to keep records of the 
+dvd/cds a user has. I've added mainly 3 categories as movies, games and software.
+Since this project is still in early stage, it does not have a permenant storage capability
+or GUI.
